@@ -1,0 +1,6 @@
+path: data  # folder that contains images/ and labels/
+train: train/images
+val: train/images
+
+nc: 1
+names: ['face']
